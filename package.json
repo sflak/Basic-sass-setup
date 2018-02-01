@@ -1,0 +1,14 @@
+{
+  "name": "cmps119",
+  "version": "1.0.0",
+  "description": "Data Visualization Project for CMPS 119",
+  "main": "index.js",
+  "scripts": {
+    "compile:sass": "node-sass sass/main.scss css/style.css -w"
+  },
+  "author": "Team Diamond Squad",
+  "license": "ISC",
+  "devDependencies": {
+    "node-sass": "^4.7.2"
+  }
+}
