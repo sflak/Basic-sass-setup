@@ -4,7 +4,7 @@
   "description": "Data Visualization Project for CMPS 119",
   "main": "index.js",
   "scripts": {
-    "compile:sass": "node-sass sass/main.scss css/style.css -w"
+    "compile:sass": "node-sass sass/main.scss css/styles.css -w"
   },
   "author": "Team Diamond Squad",
   "license": "ISC",
