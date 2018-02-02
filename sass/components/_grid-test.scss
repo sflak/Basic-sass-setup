@@ -1,0 +1,14 @@
+/* 
+
+This style is used for showing how the grid works. Feel free to delete this file if you dont need it anymore!
+
+*/
+
+.grid-test {
+    [class^="col-"] {
+        background-color: $color-green;
+        padding: 1rem;
+        color: white;
+        font-size: 1.4rem;
+    }
+}

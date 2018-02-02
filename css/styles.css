@@ -30,6 +30,17 @@ body {
   line-height: 1.7;
   color: #777; }
 
+/* 
+
+This style is used for showing how the grid works. Feel free to delete this file if you dont need it anymore!
+
+*/
+.grid-test [class^="col-"] {
+  background-color: #55c57a;
+  padding: 1rem;
+  color: white;
+  font-size: 1.4rem; }
+
 .row {
   max-width: 114rem;
   margin: 0 auto; }
