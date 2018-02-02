@@ -1,0 +1,9 @@
+This is the components folder. Use this folder to create styles for re-occuring components in your website. 
+
+    For example: _profile.scss. 
+    
+Once you've created a component, don't forget to include it in your main.scss file. 
+
+    For example: @include "components/profile";     
+    
+    Note: you don't need to include the underscode or file extension when including a file. Sass takes care of that for you!
