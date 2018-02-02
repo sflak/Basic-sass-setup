@@ -1,6 +1,9 @@
 # Basic-sass-setup
 Website starter code set up with sass file structure and 4-column float grid layout. 
 
+## What is sass?
+Sass is a css preprocessor. Every peice of sass code you write will get compiled to css code. The reason people use sass is because it gives you access to things like variables and nested styles. There are tons of resources for learning sass online. For a quick overview, visit https://www.creativebloq.com/web-design/what-is-sass-111517618 
+
 ## Don't want to use sass?
 No problem! The base css styles and the grid styles have already been written to the styles.css file. Simply delete the Sass folder and use Css how you would normally. 
 
